@@ -1,7 +1,0 @@
----
-layout: post
-title:  "hi I'm here!"
-date:   2015-06-07 12:40:19
-categories: jekyll update
----
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates deserunt et dolorem minus reiciendis nostrum nam, saepe libero itaque nisi fuga, sapiente quos ipsam temporibus unde aliquam asperiores nesciunt incidunt!
